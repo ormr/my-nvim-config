@@ -14,6 +14,7 @@ Plug 'morhetz/gruvbox'
 if has("nvim")
   " Plug 'marko-cerovac/material.nvim'
   Plug 'folke/todo-comments.nvim'
+  Plug 'kdheepak/lazygit.nvim'
   " Plug 'EdenEast/nightfox.nvim'
   " Plug 'Mofiqul/adwaita.nvim'
   Plug 'lewis6991/gitsigns.nvim'
