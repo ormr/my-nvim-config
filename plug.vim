@@ -12,6 +12,7 @@ Plug 'chrisbra/Colorizer'
 Plug 'morhetz/gruvbox'
 
 if has("nvim")
+  " Plug 'folke/which-key.nvim'
   " Plug 'marko-cerovac/material.nvim'
   Plug 'folke/todo-comments.nvim'
   Plug 'kdheepak/lazygit.nvim'
